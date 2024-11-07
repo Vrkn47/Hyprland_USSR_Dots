@@ -1,10 +1,10 @@
+<h1 align="center">
+  Hyprland USSR dotfiles 🍁
+</h1>
+
 <p align="center">
  <img src="https://i.ibb.co/BZHmH9L/2024-11-06-212537-hyprshot.png" width="800">
  <img src="https://i.ibb.co/M1tYVpn/2024-11-07-205426-hyprshot.png" width="800">
-</p>
-
-<p align="center">
-  Hyprland USSR dotfiles 🍁
 </p>
 
 ## About
