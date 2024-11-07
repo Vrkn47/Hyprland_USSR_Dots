@@ -4,18 +4,18 @@
 </p>
 
 <p align="center">
-  Hyprland USSR dotfiles
+  Hyprland USSR dotfiles 🍁
 </p>
 
 ## About
 
-Hi! This is my dotfiles from Hyprland stylized wallpaper from Plafon https://www.youtube.com/@plafonlinux
+Hi! This is my dotfiles from Hyprland stylized wallpaper from Plafon https://www.youtube.com/@plafonlinux 
 
 ## How to install
 
 1. Clone this repository.
 2. Copy dotfiles in ~/.config/
-3. Enjoy =)
+3. Enjoy =) ☘️
 
 
 ## License
