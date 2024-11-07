@@ -24,5 +24,5 @@ Hi! This is my dotfiles from Hyprland stylized wallpaper from Plafon https://www
 
 ## Developer
 
-- (Vrkn47) [https://github.com/Vrkn47]
+- (Vrkn47) [https://github.com/Vrkn47] <br/>
 **This repository based on https://github.com/Aptivace/hyprland-config.git**
